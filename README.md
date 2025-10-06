@@ -1,7 +1,12 @@
 # TA-Searching_Pert-3
 #include <iostream>
 using namespace std;
-
+-
+-
+-
+-
+-
+-
 int main() {
     const int x = 9; 
     string data[x] = {"Ali", "Budi", "Eka", "Ali", "Eka", "Fahmi", "Gita", "Hadi", "Gita"};
